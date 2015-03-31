@@ -1,0 +1,2 @@
+# TerminalGA
+Terminal Algoritmos Geneticos 
